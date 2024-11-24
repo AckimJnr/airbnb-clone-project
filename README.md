@@ -54,3 +54,74 @@ A user-friendly design is crucial in a booking system for the following reasons:
 ---
 
 This section will guide the design and implementation of the UI/UX elements, ensuring a consistent focus on user needs and expectations.
+
+## Project Roles and Responsibilities
+
+### **Project Manager (PM)**
+- **Responsibilities**:
+  - Oversee project progress and ensure milestones are met.
+  - Facilitate communication between team members.
+  - Manage project timelines, budgets, and resources.
+  - Identify and mitigate risks.
+  - Act as the primary point of contact for stakeholders.
+- **Contribution**: The PM ensures that the project stays on track, within scope, and is delivered on time and within budget.
+
+### **Frontend Developers**
+- **Responsibilities**:
+  - Implement UI/UX designs using HTML, CSS, and React with TypeScript.
+  - Develop responsive and scalable React components.
+  - Integrate frontend components with backend APIs.
+  - Optimize application performance for various devices.
+- **Contribution**: Frontend developers ensure the application is visually appealing, user-friendly, and functional.
+
+### **Backend Developers**
+- **Responsibilities**:
+  - Build and maintain server-side logic using Python and Django.
+  - Design and manage the database using MySQL.
+  - Develop and maintain REST APIs for frontend integration.
+  - Implement security and data protection measures.
+- **Contribution**: Backend developers handle data management and server operations, ensuring seamless communication with the frontend.
+
+### **Designers**
+- **Responsibilities**:
+  - Create wireframes, mockups, and prototypes for the application.
+  - Design consistent and visually appealing layouts.
+  - Collaborate with developers to implement designs.
+  - Conduct usability testing to refine the user interface.
+- **Contribution**: Designers create an engaging and intuitive user experience that aligns with the project’s goals.
+
+### **QA/Testers**
+- **Responsibilities**:
+  - Develop and execute test plans and test cases.
+  - Perform manual and automated testing to identify bugs.
+  - Document and track issues to ensure quality standards are met.
+  - Conduct regression testing after fixes and updates.
+- **Contribution**: QA/Testers ensure the application is reliable, functional, and meets user requirements.
+
+### **DevOps Engineers**
+- **Responsibilities**:
+  - Automate deployment processes using CI/CD pipelines.
+  - Manage cloud infrastructure and server configurations.
+  - Monitor application performance and uptime.
+  - Ensure production environment security and compliance.
+- **Contribution**: DevOps engineers streamline the deployment process and maintain a stable production environment.
+
+### **Product Owner (PO)**
+- **Responsibilities**:
+  - Define and prioritize product features and requirements.
+  - Manage the product backlog.
+  - Act as the liaison between stakeholders and the development team.
+  - Ensure the product delivers value and meets business objectives.
+- **Contribution**: The PO ensures that the final product aligns with user needs and business goals.
+
+### **Scrum Master**
+- **Responsibilities**:
+  - Facilitate Scrum ceremonies such as stand-ups, sprint planning, and retrospectives.
+  - Remove impediments that block team progress.
+  - Coach the team on Agile principles and practices.
+  - Foster a productive and collaborative team environment.
+- **Contribution**: The Scrum Master ensures the team adheres to Agile methodologies, enhancing productivity and collaboration.
+
+---
+
+This detailed breakdown of roles and responsibilities ensures clear communication and collaboration among team members, contributing to the project’s overall success.
